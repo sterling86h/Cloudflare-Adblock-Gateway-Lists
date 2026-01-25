@@ -1,4 +1,5 @@
 ||espn.com^
+||golf.com^
 ||stonkstime.com^
 ||p-cg64-slinganalytics.movetv.com^
 ||int.akisinn.info^
