@@ -79,3 +79,11 @@ mediaserver-cont-dc6-2-v4v6.pandora.com
 mediaserver-cont-sv5-1-v4v6.pandora.com
 mediaserver-cont-sv5-2-v4v6.pandora.com
 mediaserver-cont-sv5-3-v4v6.pandora.com
+! Twitter
+twitter.com
+x.com
+api.twitter.com
+abs.twimg.com
+pbs.twimg.com
+t.co
+tags.tiqcdn.com
