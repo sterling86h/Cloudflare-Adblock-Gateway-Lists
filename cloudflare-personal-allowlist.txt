@@ -87,3 +87,13 @@ abs.twimg.com
 pbs.twimg.com
 t.co
 tags.tiqcdn.com
+! Paramount Plus
+paramountplus.com.data.adobedc.net
+cbsinteractive.data.adobedc.net
+tags.tiqcdn.com
+conduit.redfast.com
+bam.nr-data.net
+js-agent.newrelic.com
+js.appboycdn.com
+cdn.cookielaw.org
+pubads.g.doubleclick.net 
