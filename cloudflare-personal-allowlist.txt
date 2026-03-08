@@ -97,3 +97,10 @@ js-agent.newrelic.com
 js.appboycdn.com
 cdn.cookielaw.org
 pubads.g.doubleclick.net 
+api.notesnook.com
+importer.notesnook.com
+themes-api.notesnook.com
+help.notesnook.com
+aas.streetwriters.co
+events.streetwriters.co
+cloudflare-ech.com
