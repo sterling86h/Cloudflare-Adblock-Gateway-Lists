@@ -71,3 +71,11 @@ imrworldwide.com
 doubleverify.com
 conviva.com
 omtrdc.net
+securepubads.g.doubleclick.net
+pubads.g.doubleclick.net
+www.googleadservices.com
+rainmaker.production-public.tubi.io
+ark.tubi.video
+a1.espncdn.com
+espncdn.com
+espn2.com
